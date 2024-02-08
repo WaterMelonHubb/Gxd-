@@ -1,0 +1,3 @@
+language = "nodejs"
+ p9k
+ w= "node run.js" 8
